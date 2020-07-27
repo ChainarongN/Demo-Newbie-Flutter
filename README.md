@@ -1,4 +1,4 @@
-# baby_flutter
+# newbie_flutter
 
 A new Flutter application.
 
